@@ -21,10 +21,10 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/kagami/loginserver/worlds"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/kagami/loginserver/worlds"
+	"github.com/defaultmagi/maplelib"
 )
 
 // HandleInter handles inter-server loginserver packets

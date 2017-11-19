@@ -17,7 +17,7 @@
 package players
 
 import "sync"
-import "github.com/Francesco149/kagami/channelserver/client"
+import "github.com/defaultmagi/kagami/channelserver/client"
 
 type ClientOperationCallback func(*client.Connection) error
 

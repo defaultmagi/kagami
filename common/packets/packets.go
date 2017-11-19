@@ -16,8 +16,8 @@
 package packets
 
 import (
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/maplelib"
 	"sort"
 )
 

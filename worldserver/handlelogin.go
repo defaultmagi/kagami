@@ -22,13 +22,13 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/common/config"
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/worldserver/channels"
-	"github.com/Francesco149/kagami/worldserver/status"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/common/config"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/worldserver/channels"
+	"github.com/defaultmagi/kagami/worldserver/status"
+	"github.com/defaultmagi/maplelib"
 )
 
 // HandleLogin handles packets exchanged between the worldserver and the loginserver

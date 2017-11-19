@@ -24,12 +24,12 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/common/config"
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/loginserver/client"
-	"github.com/Francesco149/kagami/loginserver/worlds"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/common/config"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/loginserver/client"
+	"github.com/defaultmagi/kagami/loginserver/worlds"
+	"github.com/defaultmagi/maplelib"
 )
 
 // loadDefaultWorlds loads and adds the default world list to the loginserver

@@ -21,12 +21,12 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/common/packets"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/kagami/worldserver/channels"
-	"github.com/Francesco149/kagami/worldserver/status"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/common/packets"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/kagami/worldserver/channels"
+	"github.com/defaultmagi/kagami/worldserver/status"
+	"github.com/defaultmagi/maplelib"
 )
 
 func makeChannelPort(chanid int8) int16 {

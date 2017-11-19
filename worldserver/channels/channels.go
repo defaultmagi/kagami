@@ -19,8 +19,8 @@ package channels
 import "sync"
 
 import (
-	"github.com/Francesco149/kagami/worldserver/status"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/worldserver/status"
+	"github.com/defaultmagi/maplelib"
 )
 
 var mut sync.Mutex

@@ -25,9 +25,9 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/packets"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/packets"
+	"github.com/defaultmagi/maplelib"
 )
 
 const handshakeHeader = 0x000D

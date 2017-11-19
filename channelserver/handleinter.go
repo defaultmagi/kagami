@@ -22,15 +22,15 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/channelserver/client"
-	"github.com/Francesco149/kagami/channelserver/players"
-	"github.com/Francesco149/kagami/channelserver/status"
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/common/config"
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/channelserver/client"
+	"github.com/defaultmagi/kagami/channelserver/players"
+	"github.com/defaultmagi/kagami/channelserver/status"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/common/config"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/maplelib"
 )
 
 // Handle handles inter-server packets exchanged between the channel server and the login/world server

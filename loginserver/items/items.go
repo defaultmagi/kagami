@@ -17,8 +17,8 @@
 package items
 
 import (
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/loginserver/client"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/loginserver/client"
 )
 
 // getItemInventory returns the item's inventory (equip, use...)

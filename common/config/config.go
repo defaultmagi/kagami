@@ -18,8 +18,8 @@
 package config
 
 import (
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/maplelib"
 )
 
 // A PacketEncodable is a generic interface for all data structures that

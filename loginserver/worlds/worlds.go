@@ -24,11 +24,11 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/common/packets"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/kagami/loginserver/client"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/common/packets"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/kagami/loginserver/client"
+	"github.com/defaultmagi/maplelib"
 )
 
 var mut sync.Mutex

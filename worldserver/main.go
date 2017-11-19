@@ -24,10 +24,10 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/maplelib"
 )
 
 func main() {

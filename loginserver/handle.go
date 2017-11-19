@@ -22,16 +22,16 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common"
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/interserver"
-	"github.com/Francesco149/kagami/common/packets"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/kagami/loginserver/client"
-	"github.com/Francesco149/kagami/loginserver/items"
-	"github.com/Francesco149/kagami/loginserver/validators"
-	"github.com/Francesco149/kagami/loginserver/worlds"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/interserver"
+	"github.com/defaultmagi/kagami/common/packets"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/kagami/loginserver/client"
+	"github.com/defaultmagi/kagami/loginserver/items"
+	"github.com/defaultmagi/kagami/loginserver/validators"
+	"github.com/defaultmagi/kagami/loginserver/worlds"
+	"github.com/defaultmagi/maplelib"
 )
 
 // Handle handles loginserver packets

@@ -21,9 +21,9 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/consts"
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/maplelib"
+	"github.com/defaultmagi/kagami/common/consts"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/maplelib"
 )
 
 var ITEM_MAGIC = []byte{0x80, 0x05}

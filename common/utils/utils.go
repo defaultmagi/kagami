@@ -24,7 +24,7 @@ import (
 	"strings"
 )
 
-import "github.com/Francesco149/kagami/common/consts"
+import "github.com/defaultmagi/kagami/common/consts"
 
 // A Pair holds two values of any type that can be
 // casted back to their original type through type assertions

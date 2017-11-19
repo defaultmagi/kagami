@@ -26,8 +26,8 @@ import (
 )
 
 import (
-	"github.com/Francesco149/kagami/common/utils"
-	"github.com/Francesco149/maplelib/wz"
+	"github.com/defaultmagi/kagami/common/utils"
+	"github.com/defaultmagi/maplelib/wz"
 )
 
 const debug = false
